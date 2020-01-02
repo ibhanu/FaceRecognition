@@ -54,4 +54,4 @@ python3 load_model_video.py
 
 ### If you have any problem regarding the project or queries 
 mail me pratap.bhanu3434@gmail.com
-or message me on [instagram](www.instagram.com\itsbhanupratap)
+or message me on [instagram](https//www.instagram.com/itsbhanupratap)
